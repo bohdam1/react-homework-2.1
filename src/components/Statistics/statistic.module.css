@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    min-width: 400px;
+   
+    
+    
+}
+.box{
+    display: flex;
+    justify-content: center;
+   
+
+}
+.boxinfo{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+   
+}
+.stat {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #2196F3;
+    margin-right: 20px;
+    
+}
+.notification{
+    text-align: center;
+}
+
+
